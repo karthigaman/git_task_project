@@ -8,4 +8,4 @@ age1=input("Please enter your age : ")
 
 # Prints a value as a string
 
-print("Git is awesome!")
+print(name1)
